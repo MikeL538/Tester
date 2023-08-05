@@ -1,0 +1,27 @@
+{
+  "name": "goit-hw-js-08",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://MikeL538.github.io/goit-hw-js-09/",
+  "scripts": {
+    "start": "parcel *.html",
+    "build": "parcel build *.html --public-url /goit-hw-js-09/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeL538/goit-hw-js-09.git"
+  },
+  "keywords": [],
+  "author": "Michał Lipiak <m.lipiak97@gmail.com>",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "dependencies": {
+    "custom-select": "^1.1.15",
+    "slim-select": "^2.6.0"
+  }
+}
