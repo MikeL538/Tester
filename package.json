@@ -2,14 +2,14 @@
   "name": "goit-hw-js-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MikeL538.github.io/goit-hw-js-09/",
+  "homepage": "https://MikeL538.github.io/Tester/",
   "scripts": {
     "start": "parcel *.html",
-    "build": "parcel build *.html --public-url /goit-hw-js-09/"
+    "build": "parcel build *.html --public-url /Tester/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikeL538/goit-hw-js-09.git"
+    "url": "git+https://github.com/MikeL538/Tester.git"
   },
   "keywords": [],
   "author": "Michał Lipiak <m.lipiak97@gmail.com>",
