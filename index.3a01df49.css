@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
+button {
+  cursor: pointer;
+  border-radius: 25px;
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+  font-size: 26px;
+}
+
 .main-content {
   justify-content: center;
   align-items: center;
@@ -33,15 +42,6 @@
   display: flex;
 }
 
-button {
-  cursor: pointer;
-  border-radius: 25px;
-  width: 150px;
-  height: 50px;
-  margin-bottom: 20px;
-  font-size: 26px;
-}
-
 .info {
   margin-bottom: 20px;
   font-size: 24px;
@@ -57,28 +57,58 @@ button {
 .div {
   border: 1px solid gold;
   width: 400px;
-  height: 300px;
+  height: 437px;
   margin-bottom: 30px;
-  overflow: hidden;
+  overflow: auto;
+}
+
+.div-select {
+  width: 100px;
+  margin-right: 70px;
+}
+
+.div-range {
+  flex-flow: column wrap;
+  align-items: center;
+  width: max-content;
+  margin-top: 15px;
+  display: flex;
+}
+
+.div-range > input {
+  width: 200px;
+  margin-bottom: 15px;
 }
 
 .console-log {
   border: 1px solid gold;
   width: 800px;
   height: 350px;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .div-tests {
   border: 1px solid gold;
   justify-content: center;
   min-height: 200px;
-  margin-top: 15px;
+  margin: 15px;
   display: flex;
 }
 
-.color {
-  background-color: red;
+.div-tests-p {
+  text-align: center;
+}
+
+.div-tests-ul {
+  grid-template-columns: -webkit-max-content 1fr;
+  grid-template-columns: max-content 1fr;
+  gap: 15px;
+  list-style: none;
+  display: grid;
+}
+
+.div-tests-ul > li {
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=index.3a01df49.css.map */
