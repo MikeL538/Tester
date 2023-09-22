@@ -1,10 +1,9 @@
-6521
-97D:\Programming\Projects\Tester\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133338318339769061 0
-72D:\Programming\Projects\Tester\node_modules\css-tree\lib\utils\string.js133338318336447948 0
-48D:\Programming\Projects\Tester\package-lock.json133348524462058037 0
-66D:\Programming\Projects\Tester\node_modules\@swc\core\package.json133338318324609617 0
-82D:\Programming\Projects\Tester\node_modules\type-fest\source\iterable-element.d.ts133338318325686740 0
-93D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\keyboardevent-which.js133338318339549650 0
+6514
+82D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\css-grid.js133338318334752490 0
+38D:\Programming\Projects\Tester\.github133357306331427075 1
+76D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Rule.js133338318336318298 0
+94D:\Programming\Projects\Tester\node_modules\css-select\node_modules\entities\lib\esm\escape.js133338318325596979 0
+79D:\Programming\Projects\Tester\node_modules\svgo\plugins\cleanupListOfValues.js133338318325108283 0
 80D:\Programming\Projects\Tester\node_modules\@parcel\utils\test\sourcemap.test.js133338318330304389 0
 97D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js133338318336278409 0
 79D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_object_spread_props133338318338472530 1
@@ -30,7 +29,7 @@
 85D:\Programming\Projects\Tester\node_modules\@parcel\core\src\requests\AssetRequest.js133338318327491917 0
 66D:\Programming\Projects\Tester\node_modules\source-map\lib\util.js133338318325178100 0
 69D:\Programming\Projects\Tester\node_modules\lines-and-columns\LICENSE133338318321468021 0
-35D:\Programming\Projects\Tester\dist133357301855093883 1
+35D:\Programming\Projects\Tester\dist133398798107211154 1
 81D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\css-all.js133338318333196651 0
 52D:\Programming\Projects\Tester\node_modules\css-tree133338318336926668 1
 109D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\create.js133338318326863592 0
@@ -64,16 +63,16 @@
 64D:\Programming\Projects\Tester\node_modules\posthtml-render\dist133338318323512560 1
 62D:\Programming\Projects\Tester\node_modules\posthtml\readme.md133338318323013887 0
 106D:\Programming\Projects\Tester\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133338318328818361 0
-37D:\Programming\Projects\Tester\images133346796727795570 1
+37D:\Programming\Projects\Tester\images133357305603944357 1
 75D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\regions\FK.js133338318337794345 0
-33D:\Programming\Projects\Tester\js133357300583891303 1
+33D:\Programming\Projects\Tester\js133357960133102501 1
 82D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\promises.js133338318341304954 0
 99D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Function.cjs133338318328000562 0
 77D:\Programming\Projects\Tester\node_modules\mdn-data\css\syntaxes.schema.json133338318326514526 0
 97D:\Programming\Projects\Tester\node_modules\css-select\node_modules\domutils\lib\esm\stringify.js133338318325217997 0
 52D:\Programming\Projects\Tester\node_modules\chokidar133338318324100985 1
 84D:\Programming\Projects\Tester\node_modules\@swc\helpers\esm\_object_spread_props.js133338318335550354 0
-41D:\Programming\Projects\Tester\index.html133357301854804651 0
+41D:\Programming\Projects\Tester\index.html133389747289307775 0
 78D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\woff.js133338318342402018 0
 89D:\Programming\Projects\Tester\node_modules\fast-glob\out\providers\matchers\matcher.d.ts133338318328200014 0
 74D:\Programming\Projects\Tester\node_modules\nth-check\lib\esm\package.json133338318323991273 0
@@ -82,20 +81,26 @@
 69D:\Programming\Projects\Tester\node_modules\@parcel\types\build-ts.js133338318321946744 0
 96D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\page.js133338318335849551 0
 122D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\IdSelector.js133338318329346953 0
-39D:\Programming\Projects\Tester\index.js133357301074907680 0
+39D:\Programming\Projects\Tester\index.js133360867846490004 0
+97D:\Programming\Projects\Tester\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133338318339769061 0
+72D:\Programming\Projects\Tester\node_modules\css-tree\lib\utils\string.js133338318336447948 0
+48D:\Programming\Projects\Tester\package-lock.json133348524462058037 0
+66D:\Programming\Projects\Tester\node_modules\@swc\core\package.json133338318324609617 0
+82D:\Programming\Projects\Tester\node_modules\type-fest\source\iterable-element.d.ts133338318325686740 0
+93D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\keyboardevent-which.js133338318339549650 0
 50D:\Programming\Projects\Tester\node_modules\base-x133338318322604997 1
 90D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133338318329297081 0
 84D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\array-find.js133338318327232603 0
 73D:\Programming\Projects\Tester\node_modules\fast-glob\out\utils\path.d.ts133338318328369565 0
-43D:\Programming\Projects\Tester\package.json133348524461669072 0
+43D:\Programming\Projects\Tester\package.json133357959059627222 0
 85D:\Programming\Projects\Tester\node_modules\source-map-js\lib\source-map-generator.js133338318324340342 0
+97D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\index.cjs133338318329745880 0
 97D:\Programming\Projects\Tester\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133338318342651351 0
 64D:\Programming\Projects\Tester\node_modules\lmdb\src\lmdb-js.cpp133338318331730569 0
-97D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\index.cjs133338318329745880 0
 113D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\create.js133338318326504551 0
 110D:\Programming\Projects\Tester\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\file1.txt133338318328080335 0
 70D:\Programming\Projects\Tester\node_modules\css-what\lib\es\parse.d.ts133338318326225431 0
-40D:\Programming\Projects\Tester\readme.md133357290201439288 0
+40D:\Programming\Projects\Tester\readme.md133357306660487523 0
 88D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_super_prop_base\package.json133338318338711891 0
 75D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\regions\KM.js133338318339599521 0
 102D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133338318340048316 0
@@ -104,13 +109,13 @@
 93D:\Programming\Projects\Tester\node_modules\css-select\node_modules\entities\lib\esm\index.js133338318325696713 0
 69D:\Programming\Projects\Tester\node_modules\dotenv-expand\lib\main.js133338318323462694 0
 79D:\Programming\Projects\Tester\node_modules\type-fest\source\literal-union.d.ts133338318325866258 0
-40D:\Programming\Projects\Tester\style.css133350377136573981 0
+40D:\Programming\Projects\Tester\style.css133386686938924799 0
 94D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133338318327721294 1
 76D:\Programming\Projects\Tester\node_modules\htmlnano\docs\versioned_sidebars133338318328598947 1
 85D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_ts_generator\package.json133338318338881438 0
 62D:\Programming\Projects\Tester\node_modules\css-what\readme.md133338318325766526 0
 99D:\Programming\Projects\Tester\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133338318322814428 0
-41D:\Programming\Projects\Tester\style.scss133350376827733228 0
+41D:\Programming\Projects\Tester\style.scss133389038613448749 0
 65D:\Programming\Projects\Tester\node_modules\base-x\src\index.d.ts133338318323053795 0
 74D:\Programming\Projects\Tester\node_modules\htmlnano\lib\modules\custom.js133338318324061100 0
 56D:\Programming\Projects\Tester\node_modules\browserslist133338318324529838 1
@@ -231,8 +236,6 @@
 75D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\regions\US.js133338318342042981 0
 78D:\Programming\Projects\Tester\node_modules\lmdb\node_modules\msgpackr\pack.js133338318325487284 0
 52D:\Programming\Projects\Tester\node_modules\anymatch133338318322784505 1
-65D:\Programming\Projects\Tester\node_modules\import-fresh\index.js133338318321916825 0
-59D:\Programming\Projects\Tester\node_modules\lmdb\caching.js133338318333076965 0
 81D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\syntax133338318329636178 1
 49D:\Programming\Projects\Tester\node_modules\fastq133338318324729305 1
 52D:\Programming\Projects\Tester\node_modules\argparse133338318324150852 1
@@ -402,7 +405,6 @@
 65D:\Programming\Projects\Tester\node_modules\fastq\test\example.ts133338318324489947 0
 88D:\Programming\Projects\Tester\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133338318328399480 0
 88D:\Programming\Projects\Tester\node_modules\utility-types\dist\aliases-and-guards.js.map133338318323981308 0
-54D:\Programming\Projects\Tester\dist\index.e5980c4e.css133338331711469354 0
 59D:\Programming\Projects\Tester\node_modules\is-glob\LICENSE133338318321507920 0
 72D:\Programming\Projects\Tester\node_modules\sass\types\value\number.d.ts133338318331830301 0
 84D:\Programming\Projects\Tester\node_modules\@nodelib\fs.scandir\out\adapters\fs.d.ts133338318325547116 0
@@ -535,7 +537,6 @@
 78D:\Programming\Projects\Tester\node_modules\utility-types\dist\mapped-types.js133338318323043809 0
 96D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133338318330114891 0
 50D:\Programming\Projects\Tester\node_modules\semver133338318328559053 1
-58D:\Programming\Projects\Tester\dist\index.e5980c4e.css.map133338331711499258 0
 53D:\Programming\Projects\Tester\node_modules\picomatch133338318324460026 1
 79D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_non_iterable_spread133338318338432644 1
 75D:\Programming\Projects\Tester\node_modules\source-map-js\lib\base64-vlq.js133338318322295813 0
@@ -1182,7 +1183,6 @@
 73D:\Programming\Projects\Tester\node_modules\css-select\lib\types.d.ts.map133338318329755853 0
 70D:\Programming\Projects\Tester\node_modules\svgo\plugins\cleanupIds.js133338318324938745 0
 83D:\Programming\Projects\Tester\node_modules\slim-select\src\slim-select\settings.ts133348524461529440 0
-79D:\Programming\Projects\Tester\node_modules\svgo\plugins\cleanupListOfValues.js133338318325108283 0
 116D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator\create.js133338318326315060 0
 74D:\Programming\Projects\Tester\node_modules\mdn-data\css\types.schema.json133338318326704020 0
 56D:\Programming\Projects\Tester\node_modules\fclone\bench133338318325148181 1
@@ -1516,6 +1516,7 @@
 99D:\Programming\Projects\Tester\node_modules\@parcel\package-manager\test\NodePackageManager.test.js133338318326604288 0
 63D:\Programming\Projects\Tester\node_modules\slim-select\LICENSE133348524461110538 0
 68D:\Programming\Projects\Tester\node_modules\semver\classes\semver.js133338318327990587 0
+48D:\Programming\Projects\Tester\.github\workflows133349473073989373 1
 106D:\Programming\Projects\Tester\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed133338318329755853 1
 82D:\Programming\Projects\Tester\node_modules\@nodelib\fs.scandir\out\adapters\fs.js133338318323412828 0
 68D:\Programming\Projects\Tester\node_modules\slim-select\package.json133348524461310020 0
@@ -2355,7 +2356,7 @@
 118D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\value.js133338318333326301 0
 76D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_get\package.json133338318337943950 0
 66D:\Programming\Projects\Tester\node_modules\mdn-data\l10n\css.json133338318324529838 0
-41D:\Programming\Projects\Tester\js\test.js133357301117837062 0
+41D:\Programming\Projects\Tester\js\test.js133398798273128875 0
 60D:\Programming\Projects\Tester\node_modules\js-yaml\lib\type133338318327212652 1
 75D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\regions\HU.js133338318338831571 0
 77D:\Programming\Projects\Tester\node_modules\@swc\helpers\lib\_to_primitive.js133338318336338242 0
@@ -2375,6 +2376,8 @@
 67D:\Programming\Projects\Tester\node_modules\mdn-data\css\units.json133338318326813723 0
 93D:\Programming\Projects\Tester\node_modules\@parcel\core\test\fixtures\invalid-source-missing133338318335450626 1
 60D:\Programming\Projects\Tester\node_modules\lmdb\binding.gyp133338318332338942 0
+65D:\Programming\Projects\Tester\node_modules\import-fresh\index.js133338318321916825 0
+59D:\Programming\Projects\Tester\node_modules\lmdb\caching.js133338318333076965 0
 61D:\Programming\Projects\Tester\node_modules\lmdb\dependencies133338318332857558 1
 95D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\background-attachment.js133338318328748546 0
 53D:\Programming\Projects\Tester\node_modules\lmdb\dict133338318333864860 1
@@ -2804,7 +2807,7 @@
 88D:\Programming\Projects\Tester\node_modules\dom-serializer\node_modules\entities\LICENSE133338318321537837 0
 67D:\Programming\Projects\Tester\node_modules\is-arrayish\.travis.yml133338318323871604 0
 78D:\Programming\Projects\Tester\node_modules\caniuse-lite\dist\lib\supported.js133338318341663995 0
-53D:\Programming\Projects\Tester\dist\index.3d214d75.js133357301345072529 0
+53D:\Programming\Projects\Tester\dist\index.3d214d75.js133398798107181241 0
 89D:\Programming\Projects\Tester\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133338318333096914 0
 97D:\Programming\Projects\Tester\node_modules\csso\node_modules\css-tree\lib\lexer\generic-const.js133338318334902090 0
 64D:\Programming\Projects\Tester\node_modules\is-arrayish\index.js133338318322894215 0
@@ -3748,7 +3751,7 @@
 74D:\Programming\Projects\Tester\node_modules\css-what\lib\commonjs\types.js133338318324260553 0
 56D:\Programming\Projects\Tester\node_modules\css-tree\cjs133338318333356220 1
 78D:\Programming\Projects\Tester\node_modules\css-select\node_modules\domhandler133338318324868936 1
-46D:\Programming\Projects\Tester\js\randomRGB.js133340007654763121 0
+46D:\Programming\Projects\Tester\js\randomRGB.js133360867562322189 0
 75D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\regions\PG.js133338318341165333 0
 57D:\Programming\Projects\Tester\node_modules\css-tree\data133338318336906733 1
 56D:\Programming\Projects\Tester\node_modules\css-tree\lib133338318336846878 1
@@ -3813,9 +3816,6 @@
 78D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Number.js133338318335969231 0
 80D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Operator.js133338318336019096 0
 77D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Ratio.js133338318336268432 0
-82D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\css-grid.js133338318334752490 0
-76D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Rule.js133338318336318298 0
-94D:\Programming\Projects\Tester\node_modules\css-select\node_modules\entities\lib\esm\escape.js133338318325596979 0
 80D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\Selector.js133338318336358191 0
 83D:\Programming\Projects\Tester\node_modules\@swc\helpers\esm\_is_native_function.js133338318335161394 0
 78D:\Programming\Projects\Tester\node_modules\css-tree\lib\syntax\node\String.js133338318336428001 0
@@ -4136,7 +4136,6 @@
 99D:\Programming\Projects\Tester\node_modules\css-select\node_modules\domhandler\lib\esm\package.json133338318323821727 0
 104D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.js133338318327751215 0
 92D:\Programming\Projects\Tester\node_modules\css-select\node_modules\dom-serializer\README.md133338318324868936 0
-66D:\Programming\Projects\Tester\dist\Tests.3464ddca.js.map.36528.1c133339741713053706 0
 90D:\Programming\Projects\Tester\node_modules\css-select\node_modules\dom-serializer\lib\esm133338318325247917 1
 78D:\Programming\Projects\Tester\node_modules\@swc\helpers\cjs\_create_super.cjs133338318327821027 0
 102D:\Programming\Projects\Tester\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.js133338318322604997 0
@@ -4306,7 +4305,6 @@
 61D:\Programming\Projects\Tester\node_modules\commander\LICENSE133338318321497954 0
 61D:\Programming\Projects\Tester\node_modules\commander\typings133338318324240606 1
 87D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\link-icon-png.js133338318339739141 0
-53D:\Programming\Projects\Tester\dist\index.ae4eccde.js133357301118006599 0
 72D:\Programming\Projects\Tester\node_modules\commander\typings\index.d.ts133338318324370260 0
 63D:\Programming\Projects\Tester\node_modules\color-name\index.js133338318321936772 0
 62D:\Programming\Projects\Tester\node_modules\color-name\LICENSE133338318322245950 0
@@ -4563,6 +4561,7 @@
 96D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_interop_require_default\package.json133338318338213225 0
 78D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\apng.js133338318326833667 0
 82D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\temporal.js133338318341783673 0
+59D:\Programming\Projects\Tester\.github\workflows\deploy.yml133349473073989373 0
 109D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Dimension.js133338318327202692 0
 88D:\Programming\Projects\Tester\node_modules\caniuse-lite\data\features\array-includes.js133338318327452023 0
 97D:\Programming\Projects\Tester\node_modules\@babel\highlight\node_modules\supports-color\index.js133338318322275882 0
@@ -4947,7 +4946,7 @@
 79D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_array_like_to_array133338318336906733 1
 108D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.js133338318327751215 0
 79D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_array_without_holes133338318336946616 1
-54D:\Programming\Projects\Tester\js\consoleLogDivShow.js133340731319740925 0
+54D:\Programming\Projects\Tester\js\consoleLogDivShow.js133360866756408611 0
 74D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_async_iterator133338318337036373 1
 115D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\lexer.js133338318330683372 0
 81D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_await_async_generator133338318337076269 1
@@ -5010,7 +5009,7 @@
 100D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133338318338283046 0
 91D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_is_native_function\package.json133338318338263098 0
 99D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133338318338143419 0
-58D:\Programming\Projects\Tester\dist\index.3a01df49.css.map133357301345032634 0
+58D:\Programming\Projects\Tester\dist\index.3a01df49.css.map133398798005888073 0
 87D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_inherits_loose\package.json133338318337993816 0
 80D:\Programming\Projects\Tester\node_modules\@swc\helpers\_\_extends\package.json133338318337894080 0
 84D:\Programming\Projects\Tester\node_modules\@nodelib\fs.walk\out\readers\reader.d.ts133338318325995913 0
@@ -5414,7 +5413,7 @@
 87D:\Programming\Projects\Tester\node_modules\@parcel\workers\src\threads\ThreadsChild.js133338318327452023 0
 113D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\utils.js133338318328658786 0
 88D:\Programming\Projects\Tester\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133338318327561722 0
-57D:\Programming\Projects\Tester\dist\index.3d214d75.js.map133357301345092463 0
+57D:\Programming\Projects\Tester\dist\index.3d214d75.js.map133398798107211154 0
 87D:\Programming\Projects\Tester\node_modules\@parcel\workers\src\process\ProcessChild.js133338318326624230 0
 74D:\Programming\Projects\Tester\node_modules\@parcel\workers\lib\backend.js133338318322006583 0
 70D:\Programming\Projects\Tester\node_modules\@parcel\workers\lib\bus.js133338318322754588 0
@@ -5477,7 +5476,6 @@
 82D:\Programming\Projects\Tester\node_modules\@parcel\utils\src\isDirectoryInside.js133338318328997880 0
 78D:\Programming\Projects\Tester\node_modules\@parcel\utils\src\openInBrowser.js133338318329257189 0
 79D:\Programming\Projects\Tester\node_modules\@parcel\utils\src\parseCSSImport.js133338318329317030 0
-67D:\Programming\Projects\Tester\dist\index.3a01df49.css.map.36528.1d133339741713053706 0
 110D:\Programming\Projects\Tester\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeComments.js133338318328229937 0
 87D:\Programming\Projects\Tester\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133338318325975972 0
 69D:\Programming\Projects\Tester\node_modules\@parcel\utils\src\path.js133338318329396814 0
@@ -6390,7 +6388,7 @@
 74D:\Programming\Projects\Tester\node_modules\@parcel\config-default\LICENSE133338318321996616 0
 79D:\Programming\Projects\Tester\node_modules\@parcel\config-default\package.json133338318323033838 0
 80D:\Programming\Projects\Tester\node_modules\@parcel\config-default\test\.babelrc133338318321557785 0
-52D:\Programming\Projects\Tester\.vscode\settings.json133357289769385340 0
+52D:\Programming\Projects\Tester\.vscode\settings.json133383120838279853 0
 79D:\Programming\Projects\Tester\node_modules\@parcel\compressor-raw\package.json133338318322734641 0
 74D:\Programming\Projects\Tester\node_modules\@parcel\codeframe\package.json133338318326853618 0
 65D:\Programming\Projects\Tester\node_modules\@parcel\codeframe\src133338318326524499 1
@@ -6513,10 +6511,5 @@
 42D:\Programming\Projects\Tester\js\fetch.js133350237662711291 0
 60D:\Programming\Projects\Tester\images\product_designer@1.jpg133346774488724580 0
 60D:\Programming\Projects\Tester\images\product_designer@2.jpg133346774488734552 0
-53D:\Programming\Projects\Tester\dist\index.27a62f76.js133340000879176157 0
-57D:\Programming\Projects\Tester\dist\index.27a62f76.js.map133340000879196112 0
-54D:\Programming\Projects\Tester\dist\index.3a01df49.css133357301345012696 0
-57D:\Programming\Projects\Tester\dist\index.ae4eccde.js.map133357301118026551 0
-46D:\Programming\Projects\Tester\dist\index.html133357301855083907 0
-53D:\Programming\Projects\Tester\dist\Tests.3464ddca.js133339989339603006 0
-57D:\Programming\Projects\Tester\dist\Tests.3464ddca.js.map133339989339662852 0
+54D:\Programming\Projects\Tester\dist\index.3a01df49.css133398798005838212 0
+46D:\Programming\Projects\Tester\dist\index.html133398798005838212 0

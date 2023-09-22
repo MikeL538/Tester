@@ -14,4 +14,5 @@ function getRandomHexColor() {
 button.addEventListener("click", () => {
   document.body.style.backgroundColor = getRandomHexColor();
   span.innerHTML = `${document.body.style.backgroundColor}`;
+  console.log(`${document.body.style.backgroundColor}`);
 });

@@ -18,24 +18,39 @@
       <section class="section-left">
         <form class="form">
           <label class="label" for="input1">Input 1</label>
-          <input class="input input1" id="input1">
+          <input class="input input1" id="input1" data-opis="Imie">
           <label class="label" for="input2">Input 2</label>
           <input class="input input2" id="input2">
           <label class="label" for="input3">Input 3</label>
           <input class="input input3" id="input3">
+          <!-- <label class="label" for="input4">Input 4</label>
+          <input class="input input4" id="input4" /> -->
         </form>
-        <select id="select">
-          <option>1</option>
-          <option>2</option>
-          <option>3</option>
+
+        <select class="div-select" id="select">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
         </select>
+
+        1<input class="checkbox" id="checkbox1" type="checkbox"> 2
+        <input class="checkbox" id="checkbox2" type="checkbox"> 3
+        <input type="checkbox" class="checkbox" id="checkbox3">
+
+        <br>
+        <div class="div-range">
+          1
+          <input type="range" class="range" min="0" max="100">
+          2 <input type="range" class="range" min="0" max="100"> 3
+          <input type="range" class="range" min="0" max="100">
+        </div>
       </section>
 
       <section class="section-middle">
         <button class="click">Click</button>
-        <button class="Function1">Function1</button>
-        <button class="Function2">Function2</button>
-        <button class="Function3">Function3</button>
+        <button class="function1 function">Function1</button>
+        <button class="function2 function">Function2</button>
+        <button class="function3 function">Function3</button>
 
         <span class="info">Information span</span>
       </section>
@@ -46,9 +61,34 @@
       </section>
     </div>
 
-    <span>Another Result Box</span>
+    <p class="div-tests-p">Another Result Box</p>
     <div class="div-tests">
-      <ul class="ul"></ul>
+      <!-- <ul class="div-tests-ul">
+        <li>
+          <label>Mark: <input type="text" id="mark" /></label>
+        </li>
+        <li>
+          <label>Model: <input type="text" id="model" /></label>
+        </li>
+        <li>
+          <label>Price: <input type="text" id="price" /></label>
+        </li>
+        <li>
+          <label>Consumption: <input type="text" id="consumption" /></label>
+        </li>
+        <li>
+          <label>Age: <input type="text" id="age" /></label>
+        </li>
+        <li>
+          <label>Cost100km: <input type="text" id="cost100km" /></label>
+        </li>
+        <li>
+          <button class="edit">Edit</button>
+        </li>
+        <li>
+          <button class="add">Add</button>
+        </li>
+      </ul> -->
     </div>
 
     <section class="section-bottom">

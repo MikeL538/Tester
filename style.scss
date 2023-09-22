@@ -2,11 +2,20 @@
   box-sizing: border-box;
 }
 
+button {
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 26px;
+  height: 50px;
+  margin-bottom: 20px;
+  width: 150px;
+}
+
 .main-content {
-  margin: 30px 0 30px 0;
   align-items: center;
   display: flex;
   justify-content: center;
+  margin: 30px 0 30px 0;
 }
 
 .section {
@@ -35,15 +44,6 @@
   }
 }
 
-button {
-  border-radius: 25px;
-  cursor: pointer;
-  font-size: 26px;
-  height: 50px;
-  margin-bottom: 20px;
-  width: 150px;
-}
-
 .info {
   font-size: 24px;
   margin-bottom: 20px;
@@ -58,27 +58,56 @@ button {
 
 .div {
   border: 1px solid gold;
-  height: 300px;
+  height: 437px;
   margin-bottom: 30px;
-  overflow: hidden;
+  overflow: auto;
   width: 400px;
+
+  &-select {
+    width: 100px;
+    margin-right: 70px;
+  }
+
+  &-range {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    width: max-content;
+
+    > input {
+      margin-bottom: 15px;
+      width: 200px;
+    }
+  }
 }
 
 .console-log {
   border: 1px solid gold;
   height: 350px;
-  overflow: hidden;
+  overflow: scroll;
   width: 800px;
 }
 
 .div-tests {
-  margin-top: 15px;
-  min-height: 200px;
   border: 1px solid gold;
   display: flex;
   justify-content: center;
-}
+  margin: 15px;
+  min-height: 200px;
 
-.color {
-  background-color: red;
+  &-p {
+    text-align: center;
+  }
+
+  &-ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 15px;
+    > li {
+      margin-bottom: 15px;
+    }
+  }
 }
